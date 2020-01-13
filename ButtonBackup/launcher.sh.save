@@ -1,0 +1,7 @@
+test#!/bin/sh
+#launcher.sh
+
+cd /
+cd /home/pi/Dokumente
+sudo python BuzzerPipelineApp.py
+cd /
